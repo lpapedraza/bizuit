@@ -1,2 +1,2 @@
 # bizuit
-pruab publicar bizuit
+prueba publicar bizuit
